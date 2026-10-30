@@ -15,6 +15,9 @@ upstream:
     type: gitlab_commit
     project_id: 9317860
     branch: master
+  sponsor:
+  - name: Buy Me a Coffee
+    url: https://buymeacoffee.com/philbormang
 
 release:
   branch: master
