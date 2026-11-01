@@ -295,7 +295,7 @@ pyparsing                    3.3.3                              python
 pypdf                        6.21.4                             python                           
 pyproject-hooks              1.2.0                              python                           
 pysocks                      1.7.1                              python                           
-python-dateutil              3.0.0                              python                           
+python-dateutil              4.0.0                              python                           
 python-magic                 0.4.27                             python                           
 python3                      3.12.3-0ubuntu2.1                  deb                              
 python3-minimal              3.12.3-0ubuntu2.1                  deb                              
