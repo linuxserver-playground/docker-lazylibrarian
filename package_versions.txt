@@ -17,7 +17,7 @@ Pillow                       13.0.0                             python
 RAR decompression library    3.93.0                             binary          (+1 duplicate)   
 Simple Launcher              1.1.0.14                           binary          (+5 duplicates)  
 adduser                      3.137ubuntu1                       deb                              
-annotated-doc                0.0.5                              python                           
+annotated-doc                0.0.6                              python                           
 annotated-types              0.8.0                              python                           
 anyio                        4.16.0                             python                           
 apprise                      2.2.0                              python                           
