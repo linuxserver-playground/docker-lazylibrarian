@@ -304,7 +304,7 @@ setuptools                   70.3.0                             python
 shellingham                  1.5.4                              python                           
 six                          1.17.0                             python                           
 slskd-api                    0.2.4                              python                           
-soupsieve                    4.0.1                              python                           
+soupsieve                    4.1                                python                           
 systemd-standalone-sysusers  255.4-1ubuntu8.18                  deb                              
 sysvinit-utils               3.08-6ubuntu3                      deb                              
 tar                          1.35+dfsg-3ubuntu0.4               deb                              
