@@ -312,7 +312,7 @@ tempora                      5.13.0                             python
 tomli                        2.3.2                              python                           
 tomli-w                      1.2.0                              python                           
 truststore                   0.10.5                             python                           
-typer                        0.29.0                             python                           
+typer                        0.29.1                             python                           
 typer-slim                   0.24.0                             python                           
 typing-extensions            4.16.0                             python                           
 typing-inspection            0.4.5                              python                           
