@@ -270,8 +270,8 @@ procps                       2:4.0.4-4ubuntu3.3                 deb
 publicsuffix                 20231001.0357-0.1                  deb                              
 pybind11                     UNKNOWN                            python                           
 pycparser                    3.12                               python                           
-pydantic                     2.14.3                             python                           
-pydantic-core                2.50.4                             python                           
+pydantic                     2.14.4                             python                           
+pydantic-core                2.50.5                             python                           
 pygments                     2.21.0                             python          (+1 duplicate)   
 pyopenssl                    26.4.0                             python                           
 pyparsing                    3.3.3                              python                           
