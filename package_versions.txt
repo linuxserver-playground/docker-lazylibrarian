@@ -32,7 +32,8 @@ bs4                          0.0.2                              python
 bsdutils                     1:2.39.3-9ubuntu6.6                deb                              
 ca-certificates              20260816ubuntu0.24.04.2            deb                              
 catatonit                    0.1.7-1                            deb                              
-certifi                      2026.10.23                         python          (+1 duplicate)   
+certifi                      2026.10.23                         python                           
+certifi                      2026.11.20                         python                           
 cffi                         2.1.1                              python                           
 chardet                      7.7.0                              python                           
 charset-normalizer           3.5.2                              python                           
@@ -290,7 +291,7 @@ python3.12-minimal           3.12.3-1ubuntu0.17                 deb
 python3.12-venv              3.12.3-1ubuntu0.17                 deb                              
 pythoncapi_compat            UNKNOWN                            UnknownPackage                   
 pytz                         2026.6                             python                           
-pyyaml                       6.0.3                              python                           
+pyyaml                       6.0.4                              python                           
 rapidfuzz                    3.14.6                             python                           
 raqm                         0.11.0                             python                           
 readline-common              8.2-4build1                        deb                              
