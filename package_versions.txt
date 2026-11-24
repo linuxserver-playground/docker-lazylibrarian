@@ -257,7 +257,8 @@ netcat-openbsd               1.226-1ubuntu2                     deb
 numpy                        2.5.5                              python                           
 oauthlib                     4.0.1                              python                           
 openssl                      3.0.13-0ubuntu3.16                 deb                              
-packaging                    26.3                               python          (+1 duplicate)   
+packaging                    26.3                               python                           
+packaging                    26.4                               python                           
 passwd                       1:4.13+dfsg1-4ubuntu3.2            deb                              
 perl-base                    5.38.2-3.2ubuntu0.7                deb                              
 pillow                       13.0.0                             python          (+1 duplicate)   
