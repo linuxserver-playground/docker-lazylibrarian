@@ -239,7 +239,7 @@ libzstd1                     1.5.5+dfsg2-2build1.1              deb
 locales                      2.39-0ubuntu8.12                   deb                              
 login                        1:4.13+dfsg1-4ubuntu3.2            deb                              
 logsave                      1.47.0-2.4~exp1ubuntu4.1           deb                              
-lxml                         6.1.3                              python                           
+lxml                         6.2.0                              python                           
 mako                         1.4.3                              python                           
 markdown                     3.11.4                             python                           
 markdown-it-py               4.3.0                              python                           
